@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Veggie Pasta",
+    "imageUrl": "https://foodofinterest.com/wp-content/uploads/2020/08/DSC_0200_00100-1024x685.jpg",
+    "isVegetarian": true,
+    "isVegan": false,
+    "cuisine": "Italain",
+    "ingredients":["Pasta","Tomatoes","Cheese","Basil"] ,
+    "instructions":"1.Boil Pasta. 2.Prepare Sauce. 3.Mix and serve"
+  },
+  {
+    "name": "Chicken Curry",
+    "imageUrl": "https://i.ytimg.com/vi/P0qv_fuGIoo/maxresdefault.jpg",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Indian",
+    "ingredients": ["500g Chicken","Spices","Tomatoes","Onions","2 tbsp oil"] ,
+    "instructions":"1.Cook Chicken. 2.Add Spices. 3.Serve hot."
+
+  },
+  {
+    "name": "Veg Noodles",
+    "imageUrl": "https://www.chefkunalkapur.com/wp-content/uploads/2021/03/veg-chowmein-min-1300x867.jpg?v=1620296035",
+    "isVegetarian": false,
+    "isVegan": true,
+    "cuisine": "Chineese",
+    "ingredients": ["200g Noodles","Spices","Tomatoes","Onions","oil","vinegar"] ,
+    "instructions":"1.Prepare the Noodles. 2.Stir-fry Vegetables.3.Add Spices and sauce. 4.Add Boiled Noodles.5.Serve hot."
+  },
+  {
+    "name": "Prawns Fry",
+    "imageUrl": "https://i.ytimg.com/vi/peaJ71kgJJ0/sddefault.jpg",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Indian",
+    "ingredients": ["250g Prawns(cleaned and deveined)","Spices","Chillies","Onions","Few Curry Leaves"] ,
+    "instructions":"1.Marinate the Prawns.2.Cook the Prawns. 2.Add Spices and sauce. 3.Serve hot."
+  },
+  {
+    "name": "Alfaham Mandi",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDVJh-aocYxF_v1xFijsm8SInNWy5kdao2Q&s",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Indian",
+    "ingredients": ["Chicken","Spices Powders","Oil","Lemons","Onions","Tomatoes"] ,
+    "instructions":"1.Prepare the Alfaham Chicken. 2.Add Spices.3.Cook the Mandi Rice. 4.Add smoke Infusion.4.Garnish and Serve hot."
+  },
+  {
+    "name": "Chicken Biryani",
+    "imageUrl": "https://vismaifood.com/storage/app/uploads/public/914/f47/fa9/thumb__1200_0_0_0_auto.jpg",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Indian",
+    "ingredients": ["1 cup boiled basmati rice","Spices","Tomatoes","Onions","1 teaspoon saffron","Oil"] ,
+    "instructions":"1.Cook Chicken. 2.Add Spices and sauce. 3.Serve hot."
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "imageUrl": "https://i.ytimg.com/vi/rcbCY26CLX4/maxresdefault.jpg",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "North",
+    "ingredients": ["Chicken","Spices","Sauces","Onions"] ,
+    "instructions":"1.Cook Chicken. 2.Add Spices and sauce. 3.Serve hot."
+  },
+  {
+    "name": "Veg Fried Rice",
+    "imageUrl": "https://i.ytimg.com/vi/LWJxI9p_QnQ/maxresdefault.jpg",
+    "isVegetarian": true,
+    "isVegan": true,
+    "cuisine": "South Indian",
+    "ingredients": ["Basmathi Rice","Spices","Vegitables","Sauce"] ,
+    "instructions":"1.Cook Rice. 2.Add Spices and sauce. 3.Serve hot."
+  },
+  {
+    "name": "Veg biryani",
+    "imageUrl": "https://theartisticcook.com/wp-content/uploads/2024/01/Vegetablebiryani1.jpg",
+    "isVegetarian": false,
+    "isVegan": true,
+    "cuisine": "South Indian",
+    "ingredients": ["Basmati Rice","Spice Powders","Tomatoes","Onions"] ,
+    "instructions":"1.Cook Rice 2.Prepare the vegetable base.3.Layer the Biryani.4.Cook the Biryani 5.Serve hot."
+  }
+]
